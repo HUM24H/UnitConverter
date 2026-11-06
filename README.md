@@ -2,7 +2,7 @@
 ## Introduction
 Unit Converter Web App built using Go
 
-**Note: This CLI app was built for the purpose of learning Go. This is not meant for any production or public use**
+**Note: This Web App was built for the purpose of learning Go. This is not meant for any production or public use**
 
 ## Description
 The Unit Converter is a simple Web App that allows a user to convert from 3 types of units:
